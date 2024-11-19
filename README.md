@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jatin! 👋
+💻 **Aspiring Backend Developer**  
+🎓 Final-Year Computer Science Student @ Coventry University  
+🚀 Passionate about building APIs and scalable systems using Python, Flask, and databases.
 
-<!--
-**jating378/jating378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Skills
+- **Languages**: Python, JavaScript
+- **Frameworks**: Flask, MERN (MongoDB, Express.js, React, Node.js)
+- **Databases**: MySQL, MongoDB
 
-Here are some ideas to get you started:
+## 📂 Projects
+- **[Smart Healthcare Monitoring System]** (In progress)
+- **[Task Manager]** (MERN Stack)
+- **[Hotel Management System]** (Flask + MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Get in Touch
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/jating378/)
+- **Portfolio**: [Your Website](https://jating378.github.io/my-portfolio/)
